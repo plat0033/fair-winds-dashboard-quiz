@@ -1,4 +1,4 @@
-GitHub and GitHub Pages where used to host and deploy this site. 
+GitHub and GitHub Page where used to host and deploy this site. 
 A repository was created with the following HTML and JavaScript files:
 - index.html
 - client-type.html
@@ -6,9 +6,17 @@ A repository was created with the following HTML and JavaScript files:
 - summary.js
 - clientType.js
 - origination.js
+NOTE: I used Bootstrap for styling. No CSS was created.
 
-In a diferent repository was hosted the following JSON files
+GitHub repository: https://github.com/plat0033/fair-winds-dashboard-quiz
+GitHub Page: https://plat0033.github.io/fair-winds-dashboard-quiz/index.html
+
+
+In a separated repository was hosted the following JSON files
     - sumary.json
     - clientType.json
     - clientOrigination.json
+
+GitHub repository for JSON: https://github.com/plat0033/fair-winds
+
 
